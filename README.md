@@ -2,7 +2,7 @@
 This is a Springboot Application with added Dependency - DataJPA and Lombok.
 Used CrudRepository Interface of DataJPA.
 Used Lombok to minimize programer's effert for POJO classes.
-Operation available are -
+Database Operation available are -
 1) Add New Product
 2) Add Multiple New Product
 3) Update Existing Product
